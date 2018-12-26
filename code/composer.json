@@ -1,0 +1,9 @@
+{
+    "name": "lightli/code",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Test\\": "test/"
+        }
+    }
+}
