@@ -5,7 +5,7 @@
  * Date: 2018/12/24
  */
 use Test\TestOne;
-include '../in.php';
+include '../bootstrap.php';
 
 $f = new ReflectionClass(TestOne::class);
 $method = $f->getMethods();
