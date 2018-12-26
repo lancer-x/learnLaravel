@@ -1,7 +1,6 @@
 <?php
 /**
  * Description:
- * User: lixiaoru@guazi.com
  * Date: 2018/12/26
  */
 //依赖注入更高级一点的用法，使用接口约定资源类的实现

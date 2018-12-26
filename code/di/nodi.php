@@ -1,7 +1,6 @@
 <?php
 /**
  * Description:
- * User: lixiaoru@guazi.com
  * Date: 2018/12/26
  */
 

@@ -1,7 +1,6 @@
 <?php
 /**
  * Description:
- * User: lixiaoru@guazi.com
  * Date: 2018/12/26
  */
 //容器 IoCContainer  使用的对象和资源：例如cache对象需要使用redis(用Tredis模拟)资源
